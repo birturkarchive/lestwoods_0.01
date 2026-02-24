@@ -1,5 +1,5 @@
 LESTWOODS Kernel v0.01
-LestWoods is a standalone, x86-based micro-kernel developed from scratch without any standard library dependencies (-ffreestanding).
+LestWoods is a standalone, x86-based monolitchic-kernel developed from scratch without any standard library dependencies (-ffreestanding).
 This project serves as a technical exploration into low-level system programming, hardware interfacing, and custom file system architecture.
 
 Technical Specifications
@@ -35,5 +35,6 @@ reboot/exit: Handles safe system restarts and shutdowns via assembly out instruc
 
 LestWoods is more than a kernel;
 "Lest we forget it."
+
 
 Developed by birturkarchive, 2026. All rights reserved.
